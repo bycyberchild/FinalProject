@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WYnip0wZJVW7obSKRe3l412R8GgRT5Eye99kmq5Sf0I6L5FGoPHDjg+qIc1G+SPkvW+kDDmFrhdRV1+AFtMDhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\berkd\\source\\repos\\FinalProject\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berkd\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\berkd\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
